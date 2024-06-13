@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Office order of Shifting of B.Tech VIII S_6f09cc</name>
+   <tag></tag>
+   <elementGuidId>74fca4f8-5062-49c1-9f83-9135913198f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>article:nth-of-type(4) > header > a.linkstyle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='news-small']/div/article[4]/header/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024 newicon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8016fa64-9b9a-4796-9641-d35162ce68b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://btu.ac.in/home/saisupport//Images/Media/VIII Sem Examination shifting order.pdf</value>
+      <webElementGuid>3e5ddbc5-ce6d-47d6-8304-72093e1029ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkstyle</value>
+      <webElementGuid>fc7cc99f-71f2-4325-b53a-725400dd329c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>8e1c9ba0-2adf-4d5b-8483-243111342b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024   </value>
+      <webElementGuid>e0d17a57-8f86-46f4-bce5-8c2e91bb268e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;news-small&quot;)/div[@class=&quot;section-content&quot;]/article[4]/header[1]/a[@class=&quot;linkstyle&quot;]</value>
+      <webElementGuid>ff8d6fee-7f8e-45fe-acda-15a469e04c9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='news-small']/div/article[4]/header/a</value>
+      <webElementGuid>b7b48c5f-a709-42aa-83f8-e8a48acc1c39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024')]</value>
+      <webElementGuid>c6272ead-c181-402b-8536-333205e6e0e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024'])[1]/following::a[2]</value>
+      <webElementGuid>bc584f27-3e68-4b17-b9c2-431b6192cadf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification for Registration of New Research Supervisor in BTU with Application form'])[1]/following::a[3]</value>
+      <webElementGuid>76ac670e-0f43-4dda-bb48-a8e8c3f45e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice Regarding Last Date 04-06-2024 for Applying for NOC(BBA/BCA) Only'])[1]/preceding::a[1]</value>
+      <webElementGuid>0f322e3b-0fef-472f-8e63-0192b1cde7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All News'])[1]/preceding::a[2]</value>
+      <webElementGuid>148896fc-1690-4ade-9754-d8f303949606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024']/parent::*</value>
+      <webElementGuid>ae58b94c-18a3-4c07-a019-7f292146c942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://btu.ac.in/home/saisupport//Images/Media/VIII Sem Examination shifting order.pdf')]</value>
+      <webElementGuid>d0750d1a-d86d-40df-8618-df6271387f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[4]/header/a</value>
+      <webElementGuid>22edbc0d-e87d-49d8-8f34-c24c8fdbc6a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://btu.ac.in/home/saisupport//Images/Media/VIII Sem Examination shifting order.pdf' and (text() = 'Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024   ' or . = 'Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024   ')]</value>
+      <webElementGuid>40e514ce-134d-49b2-bf17-47aeac40e94b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

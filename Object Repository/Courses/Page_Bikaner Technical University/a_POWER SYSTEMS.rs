@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_POWER SYSTEMS</name>
+   <tag></tag>
+   <elementGuidId>5146817a-5c3c-4c59-9c0c-4b77a4bf01f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.list-unstyled.child-navigation1 > li > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='top']/div/nav/ul/li[5]/ul/li/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;POWER SYSTEMS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fd871eda-c5fb-47e0-9ceb-af63c83d8d76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://cet-gov.ac.in/web/department/electrical?ref=header</value>
+      <webElementGuid>0da0e1be-f04a-45a4-95ee-f611933454bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>3441bd2f-b2de-47ef-88f0-af6558d67d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>POWER SYSTEMS</value>
+      <webElementGuid>54ec2d55-cf9b-4a11-bf42-b96def33cf2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/nav[@class=&quot;collapse navbar-collapse bs-navbar-collapse navbar-right&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[5]/ul[@class=&quot;list-unstyled child-navigation&quot;]/li[1]/ul[@class=&quot;list-unstyled child-navigation1&quot;]/li[1]/a[1]</value>
+      <webElementGuid>bb77a712-6650-4d1e-9c4d-944596dc1c94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='top']/div/nav/ul/li[5]/ul/li/ul/li/a</value>
+      <webElementGuid>e6786b31-fbf6-49ca-af5a-b4b7d06f00e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'POWER SYSTEMS')]</value>
+      <webElementGuid>773e197a-6d77-4c18-96bd-0171f067a6da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Question Bank'])[1]/following::a[3]</value>
+      <webElementGuid>e6ee6a07-5547-4410-ade3-15eb895dcc38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conduct Forms'])[1]/following::a[4]</value>
+      <webElementGuid>1e5b8999-7129-4a17-8c95-81b521535f4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GEOTECHNICAL ENGINEERING'])[1]/preceding::a[1]</value>
+      <webElementGuid>cd412abb-34b5-4b4f-92a8-b460b7c81618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MACHINE DESIGN'])[1]/preceding::a[2]</value>
+      <webElementGuid>3357e08d-5e93-4960-b240-7e6f731be7ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='POWER SYSTEMS']/parent::*</value>
+      <webElementGuid>748067c3-53a5-4582-9d96-c2d4b86d5505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[@href='http://cet-gov.ac.in/web/department/electrical?ref=header']</value>
+      <webElementGuid>7827def7-abf3-4e99-9909-681f54fed8a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li/ul/li/a</value>
+      <webElementGuid>09a5bf09-b483-4cdc-ba37-1fbf7155d097</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://cet-gov.ac.in/web/department/electrical?ref=header' and (text() = 'POWER SYSTEMS' or . = 'POWER SYSTEMS')]</value>
+      <webElementGuid>b283479b-94d0-4ae0-9886-2bd385a4fa0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

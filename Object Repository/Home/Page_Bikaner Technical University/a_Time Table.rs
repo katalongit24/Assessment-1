@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Time Table</name>
+   <tag></tag>
+   <elementGuidId>58989af8-58b5-4496-ba85-c7de69fd8a1c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//section[@id='division']/div/ul/li[2]/a)[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Time Table&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>90726b00-1293-435f-92ef-1d212ca0bbf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkstyle</value>
+      <webElementGuid>555fcb2b-8c2f-4863-b2c5-a69b396186fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://btu.ac.in/home/BTech-Time-table69</value>
+      <webElementGuid>afdb79a8-6e42-4eef-929f-83d84f2d1110</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time Table</value>
+      <webElementGuid>feea5058-f7a2-42b6-ab0f-eea589f35e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;page-homepage-courses&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;block&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;block-dark-background&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-4 width20pers&quot;]/section[@id=&quot;division&quot;]/div[@class=&quot;section-content&quot;]/ul[@class=&quot;list-links&quot;]/li[2]/a[@class=&quot;linkstyle&quot;]</value>
+      <webElementGuid>23c12b2d-4176-490c-a73c-2d4a34d77f15</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//section[@id='division']/div/ul/li[2]/a)[4]</value>
+      <webElementGuid>a93e2499-3c37-4011-a9b9-f944f4f519b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Time Table')])[2]</value>
+      <webElementGuid>4f1f2363-4e0e-460b-9182-c687c4ca9357</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Exam Centers'])[2]/following::a[1]</value>
+      <webElementGuid>7edb0355-19be-4191-81dd-8622b549c9c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Examination'])[1]/following::a[2]</value>
+      <webElementGuid>c04511be-0a77-4322-988c-87a0b5ed213e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[2]/preceding::a[1]</value>
+      <webElementGuid>4f9bc8c7-dc3d-4572-b3e6-13b19c18883e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notices'])[2]/preceding::a[2]</value>
+      <webElementGuid>53adba25-d602-4440-83e8-919612a8037c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://btu.ac.in/home/BTech-Time-table69')]</value>
+      <webElementGuid>abe5c787-2575-4912-b22a-006b59ce6d50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/section/div/ul/li[2]/a</value>
+      <webElementGuid>debbbcc0-e678-41d9-85e2-32f3b219926e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://btu.ac.in/home/BTech-Time-table69' and (text() = 'Time Table' or . = 'Time Table')]</value>
+      <webElementGuid>e842ca56-bdb4-4bda-a6f6-c5d2542764e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

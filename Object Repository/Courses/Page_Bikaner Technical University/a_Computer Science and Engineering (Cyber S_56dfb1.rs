@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Computer Science and Engineering (Cyber S_56dfb1</name>
+   <tag></tag>
+   <elementGuidId>e84462d4-3b00-43e2-9bf3-48f6187a915e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > ul.list-unstyled.child-navigation1 > li:nth-of-type(5) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='top']/div/nav/ul/li[5]/ul/li[3]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Computer Science and Engineering (Cyber Security)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6fb4bbac-8956-492e-948b-6b1a07ce7263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://cet-gov.ac.in/web/department/cse?ref=header</value>
+      <webElementGuid>982ad164-3db8-4239-a3e1-b811f9e8c203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2023313f-3ae4-46b8-8269-9fe089e3fb5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Computer Science and Engineering (Cyber Security)</value>
+      <webElementGuid>211272b2-0fd7-4b26-a25d-c26585f21527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;container&quot;]/nav[@class=&quot;collapse navbar-collapse bs-navbar-collapse navbar-right&quot;]/ul[@class=&quot;nav navbar-nav&quot;]/li[5]/ul[@class=&quot;list-unstyled child-navigation&quot;]/li[3]/ul[@class=&quot;list-unstyled child-navigation1&quot;]/li[5]/a[1]</value>
+      <webElementGuid>b523f7ad-af31-4c5b-aa0c-5c8eaf597eba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='top']/div/nav/ul/li[5]/ul/li[3]/ul/li[5]/a</value>
+      <webElementGuid>97eaad8a-9f49-4b3b-aef6-7f3d3e42339a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Computer Science and Engineering (Cyber Security)')]</value>
+      <webElementGuid>3e69b4a0-f4d8-45b3-9fdc-e1b0d9aeae06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Computer Science and Engineering'])[1]/following::a[1]</value>
+      <webElementGuid>93f9d27c-86be-4a9d-a76e-1e63fa04adb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Civil Engineering'])[1]/following::a[2]</value>
+      <webElementGuid>a31b45de-66b6-40f3-9e32-57b7cc2a0131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electrical Engineering'])[1]/preceding::a[1]</value>
+      <webElementGuid>a219e017-a31b-40c7-a60c-25a920aa5b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Electronics and Comm. Engineering'])[1]/preceding::a[2]</value>
+      <webElementGuid>0706cc1d-d984-4ea4-baf0-7b7448405678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Computer Science and Engineering (Cyber Security)']/parent::*</value>
+      <webElementGuid>b5822c60-4024-45fb-b658-43194ec5512c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[@href='http://cet-gov.ac.in/web/department/cse?ref=header'])[3]</value>
+      <webElementGuid>a094400f-b9d7-405b-b1ec-dc8c27dd4c5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/ul/li[3]/ul/li[5]/a</value>
+      <webElementGuid>5abc024e-045f-4d79-9357-19f0c81c5fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'http://cet-gov.ac.in/web/department/cse?ref=header' and (text() = 'Computer Science and Engineering (Cyber Security)' or . = 'Computer Science and Engineering (Cyber Security)')]</value>
+      <webElementGuid>b149884e-cd8f-4bfe-9c3d-244d5c30115d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

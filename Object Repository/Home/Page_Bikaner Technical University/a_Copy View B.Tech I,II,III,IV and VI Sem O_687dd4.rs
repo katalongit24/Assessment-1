@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Copy View B.Tech I,II,III,IV and VI Sem O_687dd4</name>
+   <tag></tag>
+   <elementGuidId>fcb2306d-0668-4d23-952a-b243e09eca95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>article:nth-of-type(2) > header > a.linkstyle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='news-small']/div/article[2]/header/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024 newicon&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ebba7e6e-ce1d-4899-83f4-f3198cb1c728</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://btu.ac.in/home/saisupport//Images/Media/B Tech (1)_merged.pdf</value>
+      <webElementGuid>d85efcbb-2ca0-4582-a089-190f84674ed2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>linkstyle</value>
+      <webElementGuid>f26aca22-187e-4cde-ae9c-346e934987b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>c637e430-b653-42a6-8551-6f06f95fdbdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024  </value>
+      <webElementGuid>6509deab-a55e-4263-9043-232222432efb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;news-small&quot;)/div[@class=&quot;section-content&quot;]/article[2]/header[1]/a[@class=&quot;linkstyle&quot;]</value>
+      <webElementGuid>754794a1-5ccf-4337-a29b-6fb5fcaa6aeb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='news-small']/div/article[2]/header/a</value>
+      <webElementGuid>94908a8c-c1f0-42b8-8ccb-4f98bb200564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024')]</value>
+      <webElementGuid>2d992203-1073-4314-bc84-410f83c08a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification for Registration of New Research Supervisor in BTU with Application form'])[1]/following::a[1]</value>
+      <webElementGuid>d7665c94-d460-4c3b-8c5c-79dd6aaa0896</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latest News'])[1]/following::a[2]</value>
+      <webElementGuid>582e689d-2c1d-43de-b394-05f724dd121c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Office order of Shifting of B.Tech VIII Sem Examiantion Scheduled on 07-06-2024'])[1]/preceding::a[2]</value>
+      <webElementGuid>ff2c3066-618f-4840-bfc0-e059ea3e0b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notice Regarding Last Date 04-06-2024 for Applying for NOC(BBA/BCA) Only'])[1]/preceding::a[3]</value>
+      <webElementGuid>bb375cc4-4557-4261-9dff-6ca750798508</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024']/parent::*</value>
+      <webElementGuid>b9de0434-6d88-4844-b32b-24c91c9ae277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://btu.ac.in/home/saisupport//Images/Media/B Tech (1)_merged.pdf')]</value>
+      <webElementGuid>354f8755-1040-4694-859e-6e0899059b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article[2]/header/a</value>
+      <webElementGuid>ee7e64c5-f6c2-4c6a-a7a7-1c80703e3aa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://btu.ac.in/home/saisupport//Images/Media/B Tech (1)_merged.pdf' and (text() = 'Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024  ' or . = 'Copy View B.Tech I,II,III,IV and VI Sem On 13 June 2024  ')]</value>
+      <webElementGuid>7de3c5a4-d4f6-459f-a735-43b6e8f06334</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

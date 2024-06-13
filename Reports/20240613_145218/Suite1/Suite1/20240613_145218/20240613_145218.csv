@@ -1,0 +1,51 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Suite1,Chrome 125.0.0.0,,,13-06-2024 14:52:25,13-06-2024 14:55:55,3m - 30.075s,FAILED
+,,,,,,,
+Test Cases/TC/Academic,Chrome 125.0.0.0,,,13-06-2024 14:52:56,13-06-2024 14:53:05,9.320s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:52:56,13-06-2024 14:52:57,1.530s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/Home-Page114"")",Chrome 125.0.0.0,,,13-06-2024 14:52:57,13-06-2024 14:53:02,4.622s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/button_Accept Cookies""))",Chrome 125.0.0.0,,,13-06-2024 14:53:02,13-06-2024 14:53:03,1.116s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/a_BOS""))",Chrome 125.0.0.0,,,13-06-2024 14:53:03,13-06-2024 14:53:04,0.353s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/a_Notices""))",Chrome 125.0.0.0,,,13-06-2024 14:53:04,13-06-2024 14:53:04,0.299s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/a_QIV 2020-21""))",Chrome 125.0.0.0,,,13-06-2024 14:53:04,13-06-2024 14:53:04,0.301s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/a_Anti Ragging Measures""))",Chrome 125.0.0.0,,,13-06-2024 14:53:04,13-06-2024 14:53:04,0.308s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/a_QIV 2020-21""))",Chrome 125.0.0.0,,,13-06-2024 14:53:04,13-06-2024 14:53:05,0.285s,PASSED
+"click(findTestObject(""Object Repository/Acadaemics/Page_Bikaner Technical University/a_Admissions""))",Chrome 125.0.0.0,,,13-06-2024 14:53:05,13-06-2024 14:53:05,0.478s,FAILED
+,,,,,,,
+Test Cases/TC/Admincase,Chrome 125.0.0.0,,,13-06-2024 14:53:05,13-06-2024 14:53:36,30.919s,PASSED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:53:05,13-06-2024 14:53:07,1.354s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:53:07,13-06-2024 14:53:12,5.526s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Administration""))",Chrome 125.0.0.0,,,13-06-2024 14:53:12,13-06-2024 14:53:15,3.079s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Chancellor""))",Chrome 125.0.0.0,,,13-06-2024 14:53:15,13-06-2024 14:53:16,0.660s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/button_Accept Cookies""))",Chrome 125.0.0.0,,,13-06-2024 14:53:16,13-06-2024 14:53:18,1.778s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Vice Chancellor""))",Chrome 125.0.0.0,,,13-06-2024 14:53:18,13-06-2024 14:53:20,2.085s,PASSED
+"switchToWindowTitle(""Bikaner Technical University"")",Chrome 125.0.0.0,,,13-06-2024 14:53:20,13-06-2024 14:53:20,0.057s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Registrar""))",Chrome 125.0.0.0,,,13-06-2024 14:53:20,13-06-2024 14:53:21,1.408s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/li_Dean Faculty Affairs""))",Chrome 125.0.0.0,,,13-06-2024 14:53:21,13-06-2024 14:53:22,0.673s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Dean Faculty Affairs""))",Chrome 125.0.0.0,,,13-06-2024 14:53:22,13-06-2024 14:53:23,1.215s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Dean Academic""))",Chrome 125.0.0.0,,,13-06-2024 14:53:23,13-06-2024 14:53:25,1.746s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Controller of Examination""))",Chrome 125.0.0.0,,,13-06-2024 14:53:25,13-06-2024 14:53:27,2.561s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Dean Research""))",Chrome 125.0.0.0,,,13-06-2024 14:53:27,13-06-2024 14:53:30,2.480s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Dean of Students Welfare""))",Chrome 125.0.0.0,,,13-06-2024 14:53:30,13-06-2024 14:53:31,1.504s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Dean Research""))",Chrome 125.0.0.0,,,13-06-2024 14:53:31,13-06-2024 14:53:33,2.083s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/li_Public Relation Officer (PRO)""))",Chrome 125.0.0.0,,,13-06-2024 14:53:33,13-06-2024 14:53:34,0.649s,PASSED
+"click(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/a_Dean Faculty of Human Value Education""))",Chrome 125.0.0.0,,,13-06-2024 14:53:34,13-06-2024 14:53:36,1.530s,PASSED
+"doubleClick(findTestObject(""Object Repository/Administrator/Page_Bikaner Technical University/li_Vice Chancellor""))",Chrome 125.0.0.0,,,13-06-2024 14:53:36,13-06-2024 14:53:36,0.424s,PASSED
+,,,,,,,
+Test Cases/TC/Courses,Chrome 125.0.0.0,,,13-06-2024 14:54:10,13-06-2024 14:54:18,7.795s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:54:10,13-06-2024 14:54:12,2.208s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:54:12,13-06-2024 14:54:17,4.956s,PASSED
+"click(findTestObject(""Object Repository/Courses/Page_Bikaner Technical University/a_M.TECH""))",Chrome 125.0.0.0,,,13-06-2024 14:54:17,13-06-2024 14:54:18,0.608s,FAILED
+,,,,,,,
+Test Cases/TC/Examinations,Chrome 125.0.0.0,,,13-06-2024 14:54:47,13-06-2024 14:54:56,8.441s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:54:47,13-06-2024 14:54:49,1.670s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:54:49,13-06-2024 14:54:55,5.948s,PASSED
+"click(findTestObject(""Object Repository/Examination/Page_Bikaner Technical University/a_Time Table""))",Chrome 125.0.0.0,,,13-06-2024 14:54:55,13-06-2024 14:54:56,0.804s,FAILED
+,,,,,,,
+Test Cases/TC/Home,Chrome 125.0.0.0,,,13-06-2024 14:55:41,13-06-2024 14:55:55,13.742s,FAILED
+"openBrowser("""")",Chrome 125.0.0.0,,,13-06-2024 14:55:41,13-06-2024 14:55:43,2.299s,PASSED
+"navigateToUrl(""https://btu.ac.in/home/"")",Chrome 125.0.0.0,,,13-06-2024 14:55:43,13-06-2024 14:55:49,5.758s,PASSED
+"click(findTestObject(""Object Repository/Home/Page_Bikaner Technical University/a_Read More""))",Chrome 125.0.0.0,,,13-06-2024 14:55:49,13-06-2024 14:55:52,2.960s,PASSED
+"click(findTestObject(""Object Repository/Home/Page_Bikaner Technical University/button_Accept Cookies""))",Chrome 125.0.0.0,,,13-06-2024 14:55:52,13-06-2024 14:55:53,1.100s,PASSED
+"click(findTestObject(""Object Repository/Home/Page_Bikaner Technical University/a_Vision  Mission""))",Chrome 125.0.0.0,,,13-06-2024 14:55:53,13-06-2024 14:55:54,1.184s,PASSED
+"click(findTestObject(""Object Repository/Home/Page_Bikaner Technical University/a_BTU Home""))",Chrome 125.0.0.0,,,13-06-2024 14:55:54,13-06-2024 14:55:55,0.418s,FAILED
